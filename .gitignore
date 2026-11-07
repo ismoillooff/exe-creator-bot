@@ -1,0 +1,14 @@
+.venv/
+.tools/
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.pem
+__pycache__/
+*.pyc
+work/
+dist/
+logs/
